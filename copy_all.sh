@@ -1,7 +1,7 @@
 #!/bin/bash
 
 stow_folders=(  alacritty hyprland i3 kitty nvim picom polybar rofi starship tmux 
-                waybar wofi pomodoro xdg private )
+                waybar wofi pomodoro xdg zsh private )
 
 link_files () {
     echo -e "\nLinking $1\n"

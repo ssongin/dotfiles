@@ -1,6 +1,6 @@
 #!/bin/bash
 
-stow_folders=(  alacritty hyprland i3 kitty nvim picom polybar rofi starship tmux 
+stow_folders=(  alacritty hyprland i3 kitty lazyvim picom polybar rofi starship tmux 
                 waybar wofi pomodoro xdg zsh private )
 
 link_files () {
